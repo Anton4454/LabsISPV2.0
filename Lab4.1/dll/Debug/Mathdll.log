@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Создается библиотека C:\Users\User\source\repos\Mathdll\Debug\Mathdll.lib и объект C:\Users\User\source\repos\Mathdll\Debug\Mathdll.exp
+  Mathdll.vcxproj -> C:\Users\User\source\repos\Mathdll\Debug\Mathdll.dll
