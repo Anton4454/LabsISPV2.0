@@ -1,0 +1,7 @@
+F:\C#\Lab7\Rational\bin\Debug\Rational.exe.config
+F:\C#\Lab7\Rational\bin\Debug\Rational.exe
+F:\C#\Lab7\Rational\bin\Debug\Rational.pdb
+F:\C#\Lab7\Rational\obj\Debug\Rational.csprojAssemblyReference.cache
+F:\C#\Lab7\Rational\obj\Debug\Rational.csproj.CoreCompileInputs.cache
+F:\C#\Lab7\Rational\obj\Debug\Rational.exe
+F:\C#\Lab7\Rational\obj\Debug\Rational.pdb
